@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wsson0823
 - 👀 I’m interested in play the guitar.
-- 🌱 I’m currently learning JS, react, next.js.
+- 🌱 I’m currently learning HTML5/CSS, JS, react, next.js, JAVA.
 - 📫 wooson0823@naver.com << EMAIL
 
 <!---
